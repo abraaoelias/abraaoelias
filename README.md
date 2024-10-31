@@ -1,16 +1,15 @@
-## Hi there 👋
+## Bem vindo ao meu perfil 📘
 
-<!--
-**abraaoelias/abraaoelias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+meu nome é elias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estou estudando na [Alura](https:/www.alura.com.br)
+- Estou aprendendo linguagem Javascript
+- Aqui eu compartilhos minhas coisas
+
+ ## meu contado é 📧
+
+  elias.abraao.ferreira@escola.pr.gov.br
+
+
+![](https://media1.tenor.com/m/XoRL5aweaxQAAAAd/menacing-one-punch-man.gif)
